@@ -1,6 +1,6 @@
 #YUNIOR DENNIS
 #Tipos de datos en python
-#1. Tipo de dato númerico 
+#1. Tipo de dato númerico (int)
 edad = 25
 promedio = 19
 número = 50
